@@ -81,13 +81,3 @@ Opened the Editor Window and accessed the standard VS Code-style interface to in
 
 Successfully completed the required setup, verified the installation of the requested tools, and documented the entire process.
 
-## Screenshots
-
-### Cursor IDE
-![Cursor IDE](Screenshot%202026-06-13%20154418.png)
-
-### Claude Code Installation
-![Claude Code](Screenshot%202026-06-13%20154312.png)
-
-### Codex Installation
-![Codex](Screenshot%202026-06-13%20154300.png)
